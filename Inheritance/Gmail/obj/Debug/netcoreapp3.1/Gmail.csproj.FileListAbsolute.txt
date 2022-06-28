@@ -1,0 +1,4 @@
+C:\Users\Sadiq\Desktop\P130\C#\HomeWork_Inheritance\Inheritance\Gmail\obj\Debug\netcoreapp3.1\Gmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sadiq\Desktop\P130\C#\HomeWork_Inheritance\Inheritance\Gmail\obj\Debug\netcoreapp3.1\Gmail.AssemblyInfoInputs.cache
+C:\Users\Sadiq\Desktop\P130\C#\HomeWork_Inheritance\Inheritance\Gmail\obj\Debug\netcoreapp3.1\Gmail.AssemblyInfo.cs
+C:\Users\Sadiq\Desktop\P130\C#\HomeWork_Inheritance\Inheritance\Gmail\obj\Debug\netcoreapp3.1\Gmail.csproj.CoreCompileInputs.cache
